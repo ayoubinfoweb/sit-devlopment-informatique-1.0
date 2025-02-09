@@ -1,0 +1,45 @@
+body {
+
+    background-color: white;
+}
+
+
+
+li {
+    font-size: 35px; 
+    color: white;
+    background-color: gray;
+    border:  5px solid  black ;
+    width: 50%;
+    height:50%;
+    padding: 2.5%;
+    margin: 50px;
+     background-image: url(image1.jpg);
+}
+
+
+
+h1 {
+    font-family: "Smooch Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: black;
+  }
+   
+  p{
+    font-family: "Smooch Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: black;
+     font-size: 60px ;
+  }
+
+ 
+  
+  
+
+
+
+
