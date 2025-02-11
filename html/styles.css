@@ -6,7 +6,7 @@ body {
 
 
 li {
-    font-size: 35px; 
+  font-size: 35px; 
     color: white;
     background-color: gray;
     border:  5px solid  black ;
@@ -14,7 +14,7 @@ li {
     height:50%;
     padding: 2.5%;
     margin: 50px;
-     background-image: url(image1.jpg);
+    background-image: url(image1.jpg);
 }
 
 
@@ -24,7 +24,8 @@ h1 {
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    color: black;
+    color:white;
+    font-size: 60px ;
   }
    
   p{
@@ -35,6 +36,25 @@ h1 {
     color: black;
      font-size: 60px ;
   }
+
+ .ab {
+      background-image: url(image1.jpg);
+  }
+  .c{
+    color: #000;
+  }
+
+  form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+
+  input{
+padding: 10px ;
+border: 1px solid black;
+  }
+
 
  
   
